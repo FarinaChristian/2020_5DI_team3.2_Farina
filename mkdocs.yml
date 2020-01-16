@@ -2,7 +2,7 @@ site_name: 2020_5DI_Team4
 nav:
     - 'Project Charter': 'project_charter.md'
     - 'Software Requirements Specification': 'software_requirements_specification.md'
-    - 'Software Project Management plan': 'software_projeckt_management_plan.md'
+    - 'Software Project Management Plan': 'software_projeckt_management_plan.md'
    
     
 theme:
