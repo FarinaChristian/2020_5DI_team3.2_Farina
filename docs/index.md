@@ -1,6 +1,9 @@
 # Documenti
 ## Team4:
-#### Farina
+#### Campagnola Jacopo
+#### Farina Christian
+#### Hinegk Giorgio
+#### Pertile Gian Marco
 
 
 
