@@ -14,12 +14,7 @@ The FS-Agriculture Architecture Document is designed to illustrate and identify 
 
 ## 2.1 Hierarchy Diagram
 
-- **Presentation Layer** 
-- **Controller Layer** 
-- **Business Layer** 
-- **Record Layer** 
-- **Data Access Layer** 
-- **Database Layer** 
+![](/diagramma.svg)
 
 ## 2.2 Hierarchy Description
 
