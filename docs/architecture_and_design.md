@@ -14,7 +14,7 @@ The FS-Agriculture Architecture Document is designed to illustrate and identify 
 
 ## 2.1 Hierarchy Diagram
 
-![](/diagramma.svg)
+![](docs/diagramma.svg)
 
 ## 2.2 Hierarchy Description
 
