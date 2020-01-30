@@ -4,7 +4,8 @@ nav:
     - 'Software Requirements Specification': 'software_requirements_specification.md'
     - 'Software Project Management Plan': 'software_projeckt_management_plan.md'
     - 'Project Success Criteria': 'project_success_criteria.md'
-    - 'Architecture and Design': 'architecture_and_design.md'
+    - 'Architecture and Design': 'architecture_and_design.md'  
+    - 'Test Plan': 'test_plan.md' 
    
     
 theme:
