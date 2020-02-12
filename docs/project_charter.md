@@ -1,7 +1,7 @@
 
 ## PROJECT CHARTER
 
-| Project Title: SF-Agricoulture                               |
+| Project Title: SF-Agriculture                               |
 | :----------------------------------------------------------- |
 | **Start Date**: 04/12/2019                                                                                 **End Date:** 5/01/2020 |
 | **Project Sponsor:**  Sponsor                                |
