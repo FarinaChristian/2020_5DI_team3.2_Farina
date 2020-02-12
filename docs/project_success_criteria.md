@@ -1,4 +1,4 @@
-# Success Criteria for FS-Agriculture
+# Success Criteria for SF-Agriculture
 
 
 
@@ -16,11 +16,11 @@ Users must be informed of their rights and responsibilities under this policy.
 
 This specifically means that a user will be able to select the access option, type their name, surname and data regarding their agricultural enterprise, select events and press a confirmation button.
 
-#### FS-Agriculture  supervisors can edit events in the system calendar.
+#### SF-Agriculture  supervisors can edit events in the system calendar.
 
 An official will be able to log into the system, select the calendar option and add or remove special events. In addition, this means that they will be able to check the events available for entrepreneurs' daily access.
 
-#### FS-Agriculture supervisors can create and edit user accounts.
+#### SF-Agriculture supervisors can create and edit user accounts.
 
 This includes officer, volunteer and youth accounts. All data should be editable from the Internet interface.
 
@@ -28,7 +28,7 @@ This includes officer, volunteer and youth accounts. All data should be editable
 
 Data from our application's existing database is loaded into the new system. The data of all fields in the existing database must be migrated to the corresponding fields in the new database.
 
-#### FS-Agriculture supervisors can print all the reports
+#### SF-Agriculture supervisors can print all the reports
 
 These reports must be in the form of Microsoft Excel spreadsheets with the data correctly displayed. The data in the report should accurately reflect what is saved on our servers.
 
