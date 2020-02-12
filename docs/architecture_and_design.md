@@ -1,5 +1,5 @@
 # Architecture Document
-## FS-Agriculture
+## SF-Agriculture
 
 Spring 2020
 
@@ -8,7 +8,7 @@ Spring 2020
 
 # 1.0 Introduction
 
-The FS-Agriculture Architecture Document is designed to illustrate and identify the high level architecture systems used to design and implement our application. The document contains an overall view of the system hierarchy, logical views of the system components, and a process view of the system&#39;s communication.
+The SF-Agriculture Architecture Document is designed to illustrate and identify the high level architecture systems used to design and implement our application. The document contains an overall view of the system hierarchy, logical views of the system components, and a process view of the system&#39;s communication.
 
 # 2.0 High Level Hierarchy
 
@@ -18,7 +18,7 @@ The FS-Agriculture Architecture Document is designed to illustrate and identify 
 
 ## 2.2 Hierarchy Description
 
-The architecture system for the FS-Agriculture application is an n-tier architecture. This architecture system is designed to allow for proper information hiding, modular components, and single system dependencies. The abstraction of the presentation layer, and consequently the Interface, allow for a flexible pipeline for the optimization of the graphic interface to meet customer needs and expectations. The Database layer is the last level in the hierarchy.
+The architecture system for the SF-Agriculture application is an n-tier architecture. This architecture system is designed to allow for proper information hiding, modular components, and single system dependencies. The abstraction of the presentation layer, and consequently the Interface, allow for a flexible pipeline for the optimization of the graphic interface to meet customer needs and expectations. The Database layer is the last level in the hierarchy.
 
 # 3.0 Components Classification
 
