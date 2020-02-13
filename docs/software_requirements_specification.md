@@ -25,7 +25,7 @@ Revision History
 
 ## 1.1 Overview
 
-The SF Agricolture web application will be an online service available on every platform. This web application will provide the customer with a detailed description of the agricultural yield of their land using the data provided by the user concerning the type of land, its geographical location, type of seed used and average seed cost.
+The SF-Agriculture web application will be an online service available on every platform. This web application will provide the customer with a detailed description of the agricultural yield of their land using the data provided by the user concerning the type of land, its geographical location, type of seed used and average seed cost.
 
 This document provides information on the requirements for the SF Agricolture web application. The objectives, scope and definitions of the project are reported in the introduction. Design constraints and environmental applications are described in the following section. Non-functional requirements are indicated for later verification. Functional requirements are provided to show the features of the system and the expected user interaction.
 
