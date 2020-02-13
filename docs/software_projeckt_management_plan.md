@@ -18,7 +18,7 @@
 
 WS 2019
 
-Jacopo Campagnola		Christian Farina 		Giorgio Hinegk		Gianmarco Pertile
+Jacopo Campagnola		Christian Farina 		Giorgio Hinegk		Gian Marco Pertile
 
 # Software Project Management Plan:
 
