@@ -1,9 +1,5 @@
 # Software Requirements Specification
 
-# For
-
-# Team 1
-
 December 4, 2019
 
 Version 1
@@ -12,59 +8,7 @@ Version 1
 
 Prepared by:
 
-SFAgricolture
-
-
-
-# Table of Contents
-
-1 Introduction        4
-
-1.1 Overview        4
-
-1.2 Goals and Objectives        4
-
-1.3 Scope        4
-
-1.4 Definitions        4
-
-2 General Design Constraints        5
-
-2.1 Roo Balance Application Environment        5
-
-2.2 User Characteristics        5
-
-2.3 Mandated Constraints        5
-
-3 Nonfunctional Requirements        5
-
-3.1 Operational Requirements        5
-
-3.2 Performance Requirements        6
-
-3.3 Security Requirements        6
-
-3.4 Documentation and Training        6
-
-3.5 External Interface        6
-
-3.5.1 User Interface        6
-
-3.5.2 Software Interface        6
-
-4 Functional Requirements        7
-
-4.1 Required Features        7
-
-4.1.1 Use Case: 1        7
-
-4.1.2 Use Case: 2        7
-
-4.2 Optional Features        8
-
-4.2.1 Use Case: 3        8
-
-4.2.2 Use Case: 4        8
+SF-Agriculture
 
 
 
@@ -79,7 +23,7 @@ Revision History
 
 # 1 Introduction
 
-## 1.1Overview
+## 1.1 Overview
 
 The SF Agricolture web application will be an online service available on every platform. This web application will provide the customer with a detailed description of the agricultural yield of their land using the data provided by the user concerning the type of land, its geographical location, type of seed used and average seed cost.
 
@@ -116,9 +60,9 @@ our SFAgricolture.com site via any search engine.
 
 # 2 General Design Constraints
 
-## 2.1 SF Agricolture Web Application Environment
+## 2.1 SF-Agriculture Web Application Environment
 
-The SF Agricolture product will include access to a web page designed to work for any device connected to the internet. This application interfaces with a proxy server designed by us. This proxy server interfaces with the SFAgricolture.com website. The proxy server will allow more efficient maintenance of the software system.
+The SF-Agriculture product will include access to a web page designed to work for any device connected to the internet. This application interfaces with a proxy server designed by us. This proxy server interfaces with the SFAgricolture.com website. The proxy server will allow more efficient maintenance of the software system.
 
 ## 2.3 User Characteristics
 
