@@ -5,6 +5,7 @@ nav:
     - 'Software Project Management Plan': 'software_projeckt_management_plan.md'
     - 'Business Model Canvas': 'business_model_canvas.pdf'
     - 'Project Model Canvas': 'project_model_canvas.pdf'
+    - 'Memo of Understanding': 'memo_of_understanding.md' 
     - 'Architecture and Design': 'architecture_and_design.md'  
     - 'Project Success Criteria': 'project_success_criteria.md'
     - 'Test Plan': 'test_plan.md' 
