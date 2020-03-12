@@ -90,10 +90,6 @@ In addition to the test plan, other test results include test specifications tha
 # Testing Tasks
 
 The following list the testing deliverables and the activities required to produce the deliverable.
-
-| Deliverables | Activities |
-| --- | --- |
-| Test Plan |
 - Analyze Requirements for System Features
 - Determine Testable and Non-Testable Features
 - Develop Approach
