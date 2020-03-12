@@ -43,7 +43,7 @@ Test Case: 4.1.1.1, 4.1.2.1, 4.1.2.2, 4.1.2.3
 
 - .Ability for a user to login via username and password and submit a survey
 
-           Test Case: 4.1.3.1
+Test Case: 4.1.3.1
 
 - .Ability for farmers to login via username and password to the back-end system and post answers to the front-end site via a threaded discussion board
 
@@ -60,9 +60,8 @@ Test Case: 4.1.4.2
 There are features that will not be included in the current testing procedure.  This does not mean that these features will not be created, but that they have not been implemented and are not available for testing.  Those features include but are not limited to:
 
 - Input of field data
-
 - Querying the Database
-
+- Registration input control
 - Functionality for adding and removing a user
 
 
