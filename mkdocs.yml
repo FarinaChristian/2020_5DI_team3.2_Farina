@@ -11,6 +11,7 @@ nav:
     - 'Project Success Criteria': 'project_success_criteria.md'
     - 'Architecture and Design': 'architecture_and_design.md'  
     - 'Test Plan': 'test_plan.md' 
+    - 'User Guide': 'user_guide.md'
     - 'System Documentation': 'system_documentation.md' 
    
     
