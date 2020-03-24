@@ -50,7 +50,7 @@ The SF-Agriculture application allows users a simple interface to access their a
 
    
 
-   ![home](C:\Users\crist\OneDrive\Desktop\marconi\GPI\home.PNG)
+   ![](/docs/home.PNG)
 
 # 3     System Requirements
 
@@ -75,7 +75,7 @@ The SF-Agriculture application must be installed on a Windows, iOS or Linux comp
 
 3. Tap the Login button.
 
-   ![mappa](C:\Users\crist\OneDrive\Desktop\marconi\GPI\mappa.PNG)
+   ![](/docs/mappa.PNG)
 
 # 5     Troubleshooting
 
