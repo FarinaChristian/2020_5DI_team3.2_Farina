@@ -14,6 +14,18 @@ nav:
     - 'Test Case Specification ': 'test_case_specification.md'
     - 'User Guide': 'user_guide.md'
     - 'System Documentation': 'system_documentation.md' 
+    - 'Project Charter PDF': 'project_charter.pdf'
+    - 'Software Requirements Specification PDF': 'software_requirements_specification.pdf'
+    - 'Software Project Management Plan PDF': 'software_projeckt_management_plan.pdf'
+    - 'Release Plan PDF': 'release_plan.pdf'
+    - 'Iteration Plan PDF': 'iteration_plan.pdf'
+    - 'Memo of Understanding PDF': 'memo_of_understanding.pdf' 
+    - 'Project Success Criteria PDF': 'project_success_criteria.pdf'
+    - 'Architecture and Design PDF': 'architecture_and_design.pdf'  
+    - 'Test Plan PDF': 'test_plan.pdf'
+    - 'Test Case Specification PDF': 'test_case_specification.pdf'
+    - 'User Guide PDF': 'user_guide.pdf'
+    - 'System Documentation PDF': 'system_documentation.pdf'
    
     
 theme:
