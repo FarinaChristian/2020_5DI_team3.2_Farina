@@ -14,6 +14,8 @@ nav:
     - 'Test Case Specification ': 'test_case_specification.md'
     - 'User Guide': 'user_guide.md'
     - 'System Documentation': 'system_documentation.md' 
+    - 'GDPR DPA': 'gdpr_dpa.md'
+    
     - 'Project Charter PDF': 'project_charter.pdf'
     - 'Software Requirements Specification PDF': 'software_requirements_specification.pdf'
     - 'Software Project Management Plan PDF': 'software_projeckt_management_plan.pdf'
@@ -26,6 +28,7 @@ nav:
     - 'Test Case Specification PDF': 'test_case_specification.pdf'
     - 'User Guide PDF': 'user_guide.pdf'
     - 'System Documentation PDF': 'system_documentation.pdf'
+    - 'GDPR DPA PDF': 'gdpr_dpa.pdf'
    
     
 theme:
